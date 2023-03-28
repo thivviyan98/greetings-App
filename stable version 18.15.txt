@@ -1,0 +1,18 @@
+ node current stable version 18.15
+npm : node package manager
+npx :if we temporarily  want to run a script so we use it one time 
+
+
+nasic rendering function to a element called <App/>
+
+before that --import React from 'react'
+		  import ReacDOM from 'react-dom/client  *
+		   import App from './App;               *
+------------const root = ReactDOM.createRoot(document.getElementById('root'))
+		root.render(<App/>)
+
+
+
+app greeting is :
+------------- 1.Show CurrentTime()
+		   2.Reply greetings based on time
